@@ -7,7 +7,7 @@
     "window": false,
     "console": false,
     "module": false,
-    "React": false,
+    "React": false
   },
 
   "parser": "babel-eslint",
@@ -20,7 +20,6 @@
   "extends": "airbnb",
 
   "rules": {
-    // Strict mode
     "strict": [2, "global"],
     "curly": [2, "multi-line"],
     "new-cap": [1, { "capIsNew": false }],
@@ -31,7 +30,6 @@
     "object-shorthand": 1,
     "comma-dangle": [2, "never"],
 
-    // Code style
     "indent": [1, 4, {"SwitchCase": 1}],
     "quotes": [1, "single"],
     "no-unused-vars": [2, { "args": "none" }],
