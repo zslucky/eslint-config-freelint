@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-freelint",
+  "version": "1.0.0",
+  "description": "a custom eslint rules config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zslucky/eslint-config-freelint.git"
+  },
+  "author": "Lucky Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zslucky/eslint-config-freelint/issues"
+  },
+  "homepage": "https://github.com/zslucky/eslint-config-freelint",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.12.0"
+  }
+}
