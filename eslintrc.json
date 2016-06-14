@@ -25,16 +25,17 @@
     "new-cap": [1, { "capIsNew": false }],
     "no-console": 0,
     "no-debugger": 1,
+    "no-var": 2,
     "prefer-const": 1,
     "prefer-template": 1,
     "object-shorthand": 1,
     "comma-dangle": [2, "never"],
 
-    "indent": [1, 4, {"SwitchCase": 1}],
+    "indent": [1, 2, {"SwitchCase": 1}],
     "quotes": [1, "single"],
     "no-unused-vars": [2, { "args": "none" }],
     "no-trailing-spaces": [2, { "skipBlankLines": true }],
-    "space-before-keywords": [1, "always"],
+    "keyword-spacing": 2,
     "space-before-function-paren": [2, "never"],
     "object-curly-spacing": [2, "always", {
         "objectsInObjects": false,
@@ -51,7 +52,7 @@
     "react/jsx-boolean-value": 0,
     "no-empty-pattern": 2,
     "react/jsx-no-duplicate-props": [2, { "ignoreCase": true }],
-    "react/jsx-indent-props": [2, 4],
+    "react/jsx-indent-props": [2, 2],
     "react/jsx-closing-bracket-location": 0
   }
 }
