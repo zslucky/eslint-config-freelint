@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-freelint",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "a custom eslint rules config",
   "main": "index.js",
   "repository": {
