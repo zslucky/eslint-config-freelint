@@ -13,11 +13,6 @@
     "node": true
   },
 
-  "plugins": [
-    "standard",
-    "promise"
-  ],
-
   "globals": {
     "document": false,
     "navigator": false,
