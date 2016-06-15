@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-freelint",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a custom eslint rules config",
   "main": "index.js",
   "repository": {
@@ -13,8 +13,7 @@
     "url": "https://github.com/zslucky/eslint-config-freelint/issues"
   },
   "homepage": "https://github.com/zslucky/eslint-config-freelint",
-  "dependencies": {},
-  "devDependencies": {
+  "peerDependencies": {
     "eslint": "^2.12.0"
   }
 }
