@@ -10,5 +10,13 @@
     "window": false
   },
 
-  "extends": "airbnb"
+  "extends": "airbnb",
+
+  "settings": {
+    "import/resolver": {
+      "webpack": {
+        "config": "webpack.common.js"
+      }
+    }
+  }
 }
