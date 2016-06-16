@@ -15,7 +15,7 @@
   "settings": {
     "import/resolver": {
       "webpack": {
-        "config": "webpack.resolve.js"
+        "config": "config/webpack.resolve.js"
       }
     }
   }
