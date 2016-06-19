@@ -1,17 +1,4 @@
 {
-  "env": {
-    "es6": true,
-    "node": true
-  },
-
-  "globals": {
-    "document": false,
-    "navigator": false,
-    "window": false
-  },
-
-  "extends": "airbnb",
-
   "settings": {
     "import/resolver": {
       "webpack": {
